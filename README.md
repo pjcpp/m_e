@@ -1,4 +1,4 @@
-# m_e
+# me
 
 링크
 ----
@@ -39,3 +39,6 @@ HTTP 및 서버
 블록체인
 ----
 * [mchain](https://github.com/pjc0247/mchain)
+  * blockchain with C# which also supports smart-contracts.
+* [epy](https://github.com/pjc0247/epy)
+  * Simple Payment system with EOS and EOS tokens.
