@@ -42,3 +42,6 @@ HTTP 및 서버
   * blockchain with C# which also supports smart-contracts.
 * [epy](https://github.com/pjc0247/epy)
   * Simple Payment system with EOS and EOS tokens.
+* [IntegratedWallet](https://github.com/pjc0247/IntegratedWallet)
+  * One-API / Multiple Exchanges
+  * Realtime price monitoring
