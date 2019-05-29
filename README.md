@@ -13,6 +13,21 @@
 * [ModPlayerServer](https://github.com/pjcpp/ModPlayerServer)
   * 개인 프로젝트로 제작중인 서버(Firebase)와 C# 클라이언트 코드 일부입니다.
 
+블록체인
+----
+* [mchain](https://github.com/pjc0247/mchain)
+  * blockchain with C# which also supports smart-contracts.
+* [epy](https://github.com/pjc0247/epy)
+  * Simple Payment system with EOS and EOS tokens.
+* [IntegratedWallet](https://github.com/pjc0247/IntegratedWallet)
+  * One-API / Multiple Exchanges
+  * Realtime price monitoring
+
+컴파일러
+----
+* [RookieLang](https://github.com/pjc0247/rookie.lang)
+* [Minidity](https://github.com/minisomething/minidity)
+
 HTTP 및 서버
 ----
 * [HttpServer](https://github.com/pjc0247/HttpServer.cs)
@@ -24,24 +39,11 @@ HTTP 및 서버
   * Java의 Retrofit같은 HTTP 클라이언트입빈다.
 * [STORM](https://github.com/pjc0247/STORM)
   * mysql orm
-
-컴파일러
-----
-* [RookieLang](https://github.com/pjc0247/rookie.lang)
-* [Minidity](https://github.com/minisomething/minidity)
-
+  
 자동화 
 ----
 * [Slacker2](https://github.com/pjc0247/Slacker2)
   * 슬랙 봇 프레임워크이며, 실제 빌드 자동화, 배포 봇에 사용중입니다.
 * [JenkinsClient.net](https://github.com/pjc0247/jenkins-client.net)
 
-블록체인
-----
-* [mchain](https://github.com/pjc0247/mchain)
-  * blockchain with C# which also supports smart-contracts.
-* [epy](https://github.com/pjc0247/epy)
-  * Simple Payment system with EOS and EOS tokens.
-* [IntegratedWallet](https://github.com/pjc0247/IntegratedWallet)
-  * One-API / Multiple Exchanges
-  * Realtime price monitoring
+
